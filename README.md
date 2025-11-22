@@ -5,8 +5,8 @@
 ## Screenshot
 ![CLI](assets/screenshot_cli.png)
 
-
 # 🍽 Kalori CLI Manager
+
 Aplikasi **CLI (Command Line Interface)** untuk menghitung total kalori harian secara cepat menggunakan **argparse**.
 
 ---
