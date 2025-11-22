@@ -8,7 +8,12 @@
 # 🍽 Kalori CLI Manager
 
 Aplikasi CLI (Command Line Interface) untuk menghitung total kalori harian secara cepat menggunakan argparse.
+Program ini dijalankan melalui Command Line (CMD/Terminal) menggunakan Python.
 
+Buka folder tempat file disimpan
+Contoh di Windows :
+-Klik kanan pada folder project
+-Pilih “Open in Terminal / Open in Command Prompt”
 Cara Menjalankan Aplikasi
 
 Pastikan Python sudah ter-install (minimal Python 3.10+).
