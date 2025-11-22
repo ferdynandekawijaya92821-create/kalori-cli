@@ -5,6 +5,27 @@
 ## Screenshot
 ![CLI](assets/screenshot_cli.png)
 
+## 🖥️ Preview Output Program
+
+### 1️⃣ Perhitungan kalori: nasi + ayam + telur
+![Calc Nasi Ayam Telur](assets/assetsss_calc_nasi_ayam_telur.png)
+
+---
+
+### 2️⃣ Perhitungan kalori: indomie + apel + pisang
+![Calc Indomie Apel Pisang](assets/assetsss_calc_indomie_apel_pisang.png)
+
+---
+
+### 3️⃣ Perhitungan kalori: apel + ayam + nasi
+![Calc Apel Ayam Nasi](assets/assetsss_calc_apel_ayam_nasi.png)
+
+---
+
+### 📋 Daftar makanan dalam database
+![List Food](assets/assetsss_list_food.png)
+
+
 # 🍽 Kalori CLI Manager
 
 Aplikasi CLI (Command Line Interface) untuk menghitung total kalori harian secara cepat menggunakan argparse.
