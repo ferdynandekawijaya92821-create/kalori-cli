@@ -2,10 +2,7 @@
 
 ![Banner](assets/banner.png)
 
-## Screenshot
-![CLI](assets/screenshot_cli.png)
-
-Output Program Pyhton
+Output Program Pada Pyhton :
 
 1️⃣ Perhitungan kalori: nasi + ayam + telur
 ![Calc Nasi Ayam Telur](assets/assetsss_calc_nasi_ayam_telur.png.jpg)
