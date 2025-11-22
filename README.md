@@ -8,7 +8,7 @@
 ## 🖥️ Preview Output Program
 
 ### 1️⃣ Perhitungan kalori: nasi + ayam + telur
-![Calc Nasi Ayam Telur](assets/assetsss_calc_nasi_ayam_telur.png)
+![Calc Nasi Ayam Telur](assets/assetsss_calc_nasi_ayam_telur.png.jpg)
 
 ---
 
