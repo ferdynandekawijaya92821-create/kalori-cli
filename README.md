@@ -5,9 +5,14 @@
 ## Screenshot
 ![CLI](assets/screenshot_cli.png)
 
-Aplikasi CLI untuk menghitung kalori harian.
 
-## Cara Pakai
-```
-python main.py calc -m nasi ayam telur
-```
+# 🍽 Kalori CLI Manager
+Aplikasi **CLI (Command Line Interface)** untuk menghitung total kalori harian secara cepat menggunakan **argparse**.
+
+---
+
+## 🚀 Cara Menjalankan
+
+### 1️⃣ Hitung kalori makanan
+```bash
+python kalori_cli_manager.py calc -m nasi ayam telur
