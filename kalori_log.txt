@@ -1,16 +1,16 @@
-SESSION 2025-11-22 07:00:00
+SESSION 2025-11-22 13:27:00
 nasi : 200
 ayam : 250
 telur : 80
 TOTAL = 530 kalori
 
-SESSION 2025-11-22 08:45:32
-mie goreng : 410
-roti : 160
-susu : 110
-TOTAL = 680 kalori
+SESSION 2025-11-22 13:13:00
+indomie : 350
+apel : 95
+pisang : 100
+TOTAL = 545 kalori
 
-SESSION 2025-11-22 10:18:09
+SESSION 2025-11-22 13:36:00
 apel : 95
 ayam : 250
 nasi : 200
